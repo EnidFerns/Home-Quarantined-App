@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini Project 1", "Mini Project 1.csproj", "{C6629F1A-1982-4FFE-8182-E3210E182B75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6629F1A-1982-4FFE-8182-E3210E182B75}.Debug|x86.ActiveCfg = Debug|x86
+		{C6629F1A-1982-4FFE-8182-E3210E182B75}.Debug|x86.Build.0 = Debug|x86
+		{C6629F1A-1982-4FFE-8182-E3210E182B75}.Release|x86.ActiveCfg = Release|x86
+		{C6629F1A-1982-4FFE-8182-E3210E182B75}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
